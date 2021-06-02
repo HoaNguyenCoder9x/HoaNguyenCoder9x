@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data, Python
 - 🌱 I’m currently learning Python, Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me on hoa.ntt5224@sinhvien.hoasen.edu.vn
 
 <!---
 HoaNguyenCoder9x/HoaNguyenCoder9x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
