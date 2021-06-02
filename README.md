@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HoaNguyenCoder9x
-- 👀 I’m interested in Data, Python
+- 👀 I’m interested in Data, Python, SQL and Big Data
 - 🌱 I’m currently learning Python, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on hoa.ntt5224@sinhvien.hoasen.edu.vn
