@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HoaNguyenCoder9x
+- 👋 Hi, I’m Shyn
 - 👀 I’m interested in Data, Python, SQL and Big Data
 - 🌱 I’m currently learning Python, Java
 - 💞️ I’m looking to collaborate on ...
