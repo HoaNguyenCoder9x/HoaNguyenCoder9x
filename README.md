@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shyn
 - 👀 I’m interested in Data, Python, SQL and Big Data
-- 🌱 I’m currently learning Python, Java
+- 🌱 I’m currently learning Python, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on hoa.ntt5224@sinhvien.hoasen.edu.vn
 
